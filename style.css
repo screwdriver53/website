@@ -1,5 +1,6 @@
 body {
     background-color: rgb(19, 156, 110);
+    margin: 0 10%;
 }
 
 header {
@@ -7,6 +8,7 @@ header {
     color: rgb(0, 0, 0);
     padding: 20px;
     background-color:cadetblue;
+    border-bottom: 1px solid;
 }
 
 p {
@@ -15,4 +17,5 @@ p {
 
 section {
     text-align: center;
+
 }
