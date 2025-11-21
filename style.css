@@ -3,7 +3,7 @@ body {
     margin: 0 10%;
 }
 
-header {
+h2 {
     text-align: center;
     color: rgb(0, 0, 0);
     padding: 20px;
@@ -13,9 +13,11 @@ header {
 
 p {
     background-color: rgb(20, 102, 161);
+    border-style: solid;
 }
 
 section {
     text-align: center;
 
 }
+
